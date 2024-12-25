@@ -16,4 +16,4 @@ spec:
       - name: dev-container
         image: <todo>
         ports:
-        - containerPort: 8080
+        - containerPort: us-east4-docker.pkg.dev/qwiklabs-gcp-04-3089cb85bf93/my-repository/hello-cloudbuild-dev:v1.0
